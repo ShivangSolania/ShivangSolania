@@ -22,8 +22,8 @@ Currently learning AI/ML & DSA while juggling C++, C, Python, Java, and a few qu
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
 ![AI/ML](https://img.shields.io/badge/-AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow)
-![Videography](https://img.shields.io/badge/-Videography-FF0000?style=for-the-badge&logo=youtube)
-![Video Editing](https://img.shields.io/badge/-Video%20Editing-FF69B4?style=for-the-badge&logo=adobe-premiere-pro)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=for-the-badge&logo=chainlink)
+![LangGraph](https://img.shields.io/badge/-LangGraph-FF4B4B?style=for-the-badge&logo=graphql)
 
 ---
 
@@ -47,21 +47,6 @@ Currently learning AI/ML & DSA while juggling C++, C, Python, Java, and a few qu
 ## 🎯 Currently Vibing On
 - Building cool stuff with C++ & Python
 - Exploring AI/ML like it’s a treasure hunt
-- Trying not to die while learning calisthenics
 - Making videos that make sense, sometimes...
 
 ---
-
-## ⚡ Random Fun Fact
-I don’t touch a code if it’s running.  
-That’s the first rule of coding.  
-(￣_,￣ )
-
----
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3cxOW83bjQydG11Y2hxZGwxYWhoYTMzbXFyZjVybTNpZWtmb2NnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="300">
-</p>
-
----
-<p align="center"><em>“Code. Occasional pointless banter. Lift. Repeat.”</em></p>
