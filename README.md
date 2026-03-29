@@ -1,6 +1,6 @@
 <!-- Profile header with typing effect -->
 <h1 align="center">
-  Supp, Shivang here 🙌🚀
+  Supp, Shivang here 🙌
 </h1>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ---
 
-💡 **Engineering Student** | 🚀 **Aspiring Developer** | 🏋️ **Calisthenics Noob** | 🌍 **Adventurous Soul**  
+💡 **Engineering Student** | 🚀 **Aspiring Developer** | 🌍 **Adventurous Soul**  
 
 I write code, break code, fix code, and sometimes film it all for fun 🫠.  
 Currently learning AI/ML & DSA while juggling C++, C, Python, Java, and a few questionable life decisions.
